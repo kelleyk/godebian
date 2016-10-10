@@ -7,10 +7,6 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-// test parsing ...
-
-// test comparison ...
-
 func TestCmpFragment(t *testing.T) {
 	for _, tt := range []struct {
 		a        string
