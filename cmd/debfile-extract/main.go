@@ -2,7 +2,6 @@ package main
 
 import (
 	"flag"
-	"fmt"
 
 	"github.com/kelleyk/godebian/debfile"
 )
@@ -22,6 +21,8 @@ func Main() error {
 		return err
 	}
 
-	fmt.Printf(" * deb: %v", deb)
+	// fmt.Printf(" * deb: %v", deb)
+	_ = deb
+
 	return nil
 }
