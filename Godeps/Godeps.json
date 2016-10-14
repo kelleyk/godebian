@@ -25,6 +25,11 @@
 			"Rev": "777990e8297312151ce72197ae52c4db505bb40f"
 		},
 		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-1-g839d9e9",
+			"Rev": "839d9e913e063e28dfd0e6c7b7512793e0a48be9"
+		},
+		{
 			"ImportPath": "github.com/pmezard/go-difflib/difflib",
 			"Comment": "v1.0.0",
 			"Rev": "792786c7400a136282c1664665ae0a8db921c6c2"
